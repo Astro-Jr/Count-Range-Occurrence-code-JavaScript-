@@ -3,7 +3,7 @@
 so this is a function to Count the
 Ranged Occurrence
 
-#How does It Works
+# How does It Works
 
 So
 <ol type="i">
